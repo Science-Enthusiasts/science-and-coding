@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Science-Enthusiasts
 
-You can use the [editor on GitHub](https://github.com/Science-Enthusiasts/science-and-coding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the official page for Science-Enthusiasts. We are here to provide better and effective scientific surfing. You can find science blogs, news, magazines and coding tutorials and source code here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are on facebook as [Quantum Physiscs](https://www.facebook.com/AstroScience.Subhash) where we post materials and useful informations about quantum physics and astonomy. We are also on YouTube as [Science-Enthusiasts](https://www.youtube.com/channel/UCgUXf4lNp2a-n9nS5l7kLyQ). You can find fascinating science fiction videos on that channel.
 
-### Markdown
+### What do we do??
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Science-Enthusiasts/science-and-coding/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are here to explore scientific adventures and make people familier with the things that are obvious with science. We will try to reach out maximum peoples to provide essential knowledge so that we can make them aware about the hilarious diasasters like climate change. Being quantum physics, the most trend topic on physics , we will work a team to explore and research it.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Your support and feedback helps us a lot. So don't forget to follow or suscribe us.If you have any queries or questions with us, please contact us on our official facebbok page[here](https://www.facebook.com/AstroScience.Subhash) or leave a message on [WhatsApp](https://wa.me/qr/SXJJP2WBZ2K4F1) and we’ll help you sort it out.
+
+### Subhash Bhandari
